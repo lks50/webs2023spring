@@ -1,17 +1,23 @@
 body {
-    background: #e0e5ec;
+    background: #DBE9F5;
+    max-width: 50em;
+    margin: 0 auto;
+    padding: 2em 5em 2em;
   }
   h1 {
     position: relative;
     text-align: center;
-    color: #353535;
+    color: #003594;
     font-size: 50px;
     font-family: "Cormorant Garamond", serif;
-  }
+        padding: 40px;
+        border: 1px solid #FFB81C;
+      }
+
   h2 {
     position: relative;
     text-align: center;
-    color: #353535;
+    color: #046ec4;
     font-size: 30px;
     font-family: "Cormorant Garamond", serif;
   }
@@ -19,9 +25,11 @@ body {
   p {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    text-align: center;
     font-size: 18px;
-    color: #676767;
+    color: #353535;
+  }
+  .center {
+    text-align: center;
   }
   .frame {
     width: 90%;
@@ -31,6 +39,12 @@ body {
   button {
     margin: 20px;
   }
+
+button a {
+    color: #fff;
+    text-decoration: none;
+}
+
   .custom-btn {
     width: 130px;
     height: 40px;
@@ -83,15 +97,15 @@ body {
     background: rgb(6,14,131);
     background: linear-gradient(0deg, rgba(6,14,131,1) 0%, rgba(12,25,180,1) 100%);
     border: none;
-}
+  }
 .btn-3:before {
   height: 0%;
   width: 2px;
-}
+  }
 .btn-3:hover {
     background: rgb(0,3,255);
     background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
-}
+  }
   
   /* 4 */
   .btn-4 {
@@ -99,11 +113,12 @@ body {
     background: linear-gradient(0deg, rgba(6,14,131,1) 0%, rgba(12,25,180,1) 100%);
     border: none;
   }
-  .btn-4:hover{
-    background: rgb(0,3,255);
-    background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
-}
-.btn-4:before {
+  .btn-4:before {
     height: 0%;
     width: 2px;
   }
+  .btn-4:hover{
+    background: rgb(0,3,255);
+    background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
+  }
+
