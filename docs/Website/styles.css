@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   color: #003594;
   font-size: 50px;
-  font-family: "Cormorant Garamond", serif;
+  font-family: 'Rubik', sans-serif;
       padding: 40px;
       border: 1px solid #FFB81C;
     }
@@ -28,7 +28,7 @@ h2 {
   text-align: center;
   color: #046ec4;
   font-size: 30px;
-  font-family: "Cormorant Garamond", serif;
+  font-family: 'Merriweather', serif;
 }
 .image1 {
   max-width: 50em;
@@ -43,7 +43,7 @@ h2 {
 }
 
 p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 18px;
   color: #353535;
@@ -69,7 +69,7 @@ button a {
   color: #fff;
   border-radius: 5px;
   padding: 10px 25px;
-  font-family: "Cormorant Garamond", serif;
+  font-family: 'Merriweather', serif;
   font-weight: 500;
   background: transparent;
   cursor: pointer;
