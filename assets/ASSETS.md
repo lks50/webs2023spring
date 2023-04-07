@@ -1,1 +1,2 @@
-
+Image by Pitt Alumni Student Network, on Pitt Alumni, image is included under fair use claims as this page is for nonprofit educational purposes, https://www.alumni.pitt.edu/s/1729/alumni/interior.aspx?sid=1729&gid=2&pgid=3167
+Pittsburgh Panthers logo by SportsLogo.net, on SportsLogo.net, image is included under fair use claims as this page is for nonprofit educational purposes, https://www.sportslogos.net/logos/view/80352301974/Pittsburgh_Panthers/1974/Alternate_Logo
